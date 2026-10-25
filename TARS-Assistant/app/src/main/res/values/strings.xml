@@ -1,1 +1,4 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">TARS 助手使用无障碍服务读取当前界面并执行你明确要求的简单操作。</string>
+</resources>
